@@ -1,988 +1,937 @@
 {
-    "Lab Personnel": [
-        
-        {
-            "Lab Personnel ": "Abolarin Olusegun",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Akira Iinishi",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Andrei Musetescu",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Anuradha Seth",
-            "Lab": "Saavedra",
-            "Room Number": "MU 413"
-        },
-        {
-            "Lab Personnel ": "Arina Ovchinnikova",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Lab Personnel ": "Ashwin Lokapally",
-            "Lab": "Sive",
-            "Room Number": "MU 036"
-        },
-        {
-            "Lab Personnel ": "Avery Lord",
-            "Lab": "Cram",
-            "Room Number": "MU 424"
-        },
-        {
-            "Lab Personnel ": "Brandon Choo",
-            "Lab": "Sive",
-            "Room Number": "MU 036"
-        },
-        {
-            "Lab Personnel ": "Bryson Andrew Hawkins",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Christopher Zinck",
-            "Lab": "Takacs",
-            "Room Number": "MU 413"
-        },
-        {
-            "Lab Personnel ": "David Lehotzky",
-            "Lab": "Zupanc",
-            "Room Number": "MU 407"
-        },
-        {
-            "Lab Personnel ": "Declan Houlihan",
-            "Lab": "Takacs",
-            "Room Number": "MU 413"
-        },
-        {
-            "Lab Personnel ": "Drew Bostrom",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Lab Personnel ": "Evan Barfuss",
-            "Lab": "Unkown",
-            "Room Number": "BK 703"
-        },
-        {
-            "Lab Personnel ": "Helene Serre",
-            "Lab": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Lab Personnel ": "Hui Wang",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Isabel Jones",
-            "Lab": "Lewis",
-            "Room Number": "MU 310A"
-        },
-        {
-            "Lab Personnel ": "Jinna Bai",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Lab Personnel ": "Julianna Blanco",
-            "Lab": "Saavedra",
-            "Room Number": "MU 413"
-        },
-        {
-            "Lab Personnel ": "Kamrunnesa Tahmina",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Kannan Thangamani",
-            "Lab": "Okeke",
-            "Room Number": "MU 213"
-        },
-        {
-            "Lab Personnel ": "Kari Jensen",
-            "Lab": "Unkown",
-            "Room Number": "BK 604"
-        },
-        {
-            "Lab Personnel ": "Kiley Hartigan",
-            "Lab": "Matthis",
-            "Room Number": "RI 417"
-        },
-        {
-            "Lab Personnel ": "Leon Liang",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Luke Yaeger",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Mohini Jaiswal",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Mohsen Sadeghi",
-            "Lab": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Lab Personnel ": "Monique Theriault",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Muruganandan Shanmugam",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Lab Personnel ": "Mustafi Raisa Amin",
-            "Lab": "Cram",
-            "Room Number": "MU 424"
-        },
-        {
-            "Lab Personnel ": "Nadja Leimer",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Nelson Alara",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Lab Personnel ": " Nicole Raustad",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Lab Personnel ": "Nikita Gupta",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Natalie Disilets",
-            "Lab": "Takacs",
-            "Room Number": "MU 413"
-        },
-        {
-            "Lab Personnel ": "Oleg Rouvinski Vasilieva",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Olusula Bodede",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Pankaj Patil",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Patricia Hampf",
-            "Lab": "Unkown",
-            "Room Number": "BK 704"
-        },
-        {
-            "Lab Personnel ": "Phillip Queen",
-            "Lab": "Matthis",
-            "Room Number": "RI 417"
-        },
-        {
-            "Lab Personnel ": "Rakshith Lokesh",
-            "Lab": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Lab Personnel ": "Raleb Taher",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Sabrina Bond",
-            "Lab": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Lab Personnel ": "Sage Kumar",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Lab Personnel ": "Sangkeun Son",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Sanika Vaidya",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Serena Lee",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Stephen Reinhart",
-            "Lab": "Matthis",
-            "Room Number": "RI 417"
-        },
-        {
-            "Lab Personnel ": "Silvia Buscaglione",
-            "Lab": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Lab Personnel ": "Thomas Curtis",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Thomas Privalsky",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Tim Duerr",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Lab Personnel ": "Tony D'Onofrio",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Trenton Wirth",
-            "Lab": "Matthis",
-            "Room Number": "RI 417"
-        },
-        {
-            "Lab Personnel ": "Vladimir Tikhonov",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Yekaterina Piyedra Sobolevskaya",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Ying Zhang",
-            "Lab": "Lewis",
-            "Room Number": "MU 206A"
-        },
-        {
-            "Lab Personnel ": "Yongchao Yin",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Lab Personnel ": "Yu Zhai",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Lab Personnel ": "Yumin Cai",
-            "Lab": "Lewis",
-            "Room Number": "MU 309"
-        }
-    ],
-    "Grad Students": [
-        {
-            "Grad Students": "Adrianna Vandeuren",
-            "Lab": "Day",
-            "Room Number": "MU 220"
-        },
-        {
-            "Grad Students": "Aleksei Krotov",
-            "Lab": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Grad Students": "Andrew Piasecki",
-            "Lab": "LAIR",
-            "Room Number": "MU 213"
-        },
-        {
-            "Grad Students": "Brian Nguyen",
-            "Lab": "Godoy-Carter",
-            "Room Number": "MU 402"
-        },
-        {
-            "Grad Students": "Daniel Shaw",
-            "Lab": "Apfeld",
-            "Room Number": "MU 409"
-        },
-        {
-            "Grad Students": "Fanke Gao",
-            "Lab": "Lewis",
-            "Room Number": "MU 421"
-        },
-        {
-            "Grad Students": "Jackson Griffiths",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Grad Students": "Kalley deGeorge",
-            "Lab": "Ionescu",
-            "Room Number": "Unkown"
-        },
-        {
-            "Grad Students": "Jinna Bai",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Grad Students": "Lindsay Julio",
-            "Lab": "Day",
-            "Room Number": "MU 220"
-        },
-        {
-            "Grad Students": "Mahnia Asadollahi",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Grad Students": "Maria Khalid",
-            "Lab": "Cram",
-            "Room Number": "RI 503"
-        },
-        {
-            "Grad Students": "Mark Soo",
-            "Lab": "Takacs",
-            "Room Number": "MU 315"
-        },
-        {
-            "Grad Students": "Melissa Franco",
-            "Lab": "Khrapko",
-            "Room Number": "MU 214"
-        },
-        {
-            "Grad Students": "Melissa Miller",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Grad Students": "Michael Gates",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Grad Students": "Nicole Cavanaugh",
-            "Lab": "Chai",
-            "Room Number": "MU 301"
-        },
-        {
-            "Grad Students": "Shannon Sykes-Macleod",
-            "Lab": "Day",
-            "Room Number": "MU 220"
-        },
-        {
-            "Grad Students": "Victor Stolzenbach",
-            "Lab": "Cram",
-            "Room Number": "MU 424"
-        },
-        {
-            "Grad Students": "Yinghao He",
-            "Lab": "Chai",
-            "Room Number": "MU 301"
-        },
-        {
-            "Grad Students": "Yiwei Kong",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Grad Students": "Yuyan Xu",
-            "Lab": "Apfeld",
-            "Room Number": "MU 409"
-        },
-        {
-            "Grad Students": "Hsin-Wen Liang",
-            "Lab": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Grad Students": "Casey Tsimbal",
-            "Lab": "Apfeld",
-            "Room Number": "MU 409"
-        },
-        {
-            "Grad Students": "Wathone Win",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Grad Students": "Samantha Finkbeiner",
-            "Lab": "Monaghan/Copos",
-            "Room Number": "MU 404"
-        },
-        {
-            "Grad Students": "Nicole Calder",
-            "Lab": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Grad Students": "Cooper Wilkinson",
-            "Lab": "Day",
-            "Room Number": "MU 220"
-        },
-        {
-            "Grad Students": "Brittany Noonan",
-            "Lab": "Sitkovsky/Hatfield",
-            "Room Number": "MU 031"
-        },
-        {
-            "Grad Students": "Grace Picarillo",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Grad Students": "Gillian Croteau",
-            "Lab": "Takacs",
-            "Room Number": "MU 413"
-        },
-        {
-            "Grad Students": "Kailey deGeorge",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Grad Students": "Vimisha Dharamdasani",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Grad Students": "Lauren Frost",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Grad Students": "Egun Im",
-            "Lab": "Copos/Monagham",
-            "Room Number": "MU 404"
-        },
-        {
-            "Grad Students": "Christopher Kim",
-            "Lab": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Grad Students": "Laura Losada Miguns",
-            "Lab": "Sitkovsky/Hatfield",
-            "Room Number": "MU 031"
-        },
-        {
-            "Grad Students": "Andrew Miller-Klugman",
-            "Lab": "Day",
-            "Room Number": "MU 220"
-        },
-        {
-            "Grad Students": "Daniil Mirzoyan",
-            "Lab": "Khrapko",
-            "Room Number": "MU 214"
-        },
-        {
-            "Grad Students": "Daniel Norment",
-            "Lab": "Lewis",
-            "Room Number": "MU 421"
-        },
-        {
-            "Grad Students": "Arina Ovchinnikova",
-            "Lab": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Grad Students": "Helder Prece",
-            "Lab": "Okeke",
-            "Room Number": "Unkown"
-        },
-        {
-            "Grad Students": "Haley Sharp",
-            "Lab": "Woods",
-            "Room Number": "MU 213"
-        },
-        {
-            "Grad Students": "Adam Slamin",
-            "Lab": "Takacs",
-            "Room Number": "MU 413"
-        },
-        {
-            "Grad Students": "Heather Watkins",
-            "Lab": "Sitkovsky/Hatfield",
-            "Room Number": "MU 031"
-        },
-        {
-            "Grad Students": "Michael Razavi",
-            "Lab": "Carrier",
-            "Room Number": "Unkown"
-        }
-    ],
-    "Faculty": [
-        {
-            "Faculty ": "Javier Apfeld",
-            "EXT": 4495,
-            "Room Number": "MU 211C"
-            
-        },
-        {
-            "Faculty ": "Maddie Balman",
-            "EXT": "Unkown",
-            "Room Number": "MU 206B"
-            
-        },
-        {
-            "Faculty ": "Jamie Bunce",
-            "EXT": 6838,
-            "Room Number": "NI 382"
-            
-        },
-        {
-            "Faculty ": "Win Chai",
-            "EXT": 3973,
-            "Room Number": "MU 301A"
-            
-        },
-        {
-            "Faculty ": "Calina Copos",
-            "EXT": "Unkown",
-            "Room Number": "MU 206K"
-            
-        },
-        {
-            "Faculty ": "Erin Cram",
-            "EXT": 7533,
-            "Room Number": "MU 425A"
-            
-        },
-        {
-            "Faculty ": "Tovah Day",
-            "EXT": 3492,
-            "Room Number": "MU 211D"
-            
-        },
-        {
-            "Faculty ": "Lital Davidi ",
-            "EXT": "Unkown",
-            "Room Number": "EXP 530C"
-            
-        },
-        {
-            "Faculty ": "Slava Epstein",
-            "EXT": 4048,
-            "Room Number": "MU 305"
-            
-        },
-        {
-            "Faculty ": "Joanna Farkas",
-            "EXT": 3119,
-            "Room Number": "MU 122A"
-            
-        },
-        {
-            "Faculty ": "Kirsten Fertuck",
-            "EXT": 2084,
-            "Room Number": "MU 203F"
-            
-        },
-        {
-            "Faculty ": "Eddie Geisinger",
-            "EXT": 5266,
-            "Room Number": "MU206L"
-            
-        },
-        {
-            "Faculty ": "Veronica Godoy-Carter",
-            "EXT": 4042,
-            "Room Number": "MU 205E"
-            
-        },
-        {
-            "Faculty ": "Mark Grabiner",
-            "EXT": "Unkown",
-            "Room Number": "MU 206Y"
-            
-        },
-        {
-            "Faculty ": "Jamie Henzy",
-            "EXT": 4032,
-            "Room Number": "MU 205F"
-            
-        },
-        {
-            "Faculty ": "Erica Homan",
-            "EXT": 2674,
-            "Room Number": "MU 122B"
-            
-        },
-        {
-            "Faculty ": "Jenn Ingemi",
-            "EXT": 6510,
-            "Room Number": "164B NI"
-            
-        },
-        {
-            "Faculty ": "Andreia Ionescu",
-            "EXT": 6229,
-            "Room Number": "MU 301D"
-            
-        },
-        {
-            "Faculty ": "Jonathan Kahn",
-            "EXT": 4930,
-            "Room Number": "CG 29"
-            
-        },
-        {
-            "Faculty ": "Konstantin Khrapko",
-            "EXT": 6283,
-            "Room Number": "MU 306E"
-            
-        },
-        {
-            "Faculty ": "Kim Lewis",
-            "EXT": 8238,
-            "Room Number": "MU 306C"
-            
-        },
-        {
-            "Faculty ": "Jon Matthis",
-            "EXT": 7350,
-            "Room Number": "RI 417A"
-            
-        },
-        {
-            "Faculty ": "Missy McElligott",
-            "EXT": 7098,
-            "Room Number": "MU 203C"
-            
-        },
-        {
-            "Faculty ": "Lindsay Mehrmanesh",
-            "EXT": 2987,
-            "Room Number": "MU 206C"
-            
-        },
-        {
-            "Faculty ": "James Monaghan",
-            "EXT": 6539,
-            "Room Number": "ISEC 308/206S"
-            
-        },
-        {
-            "Faculty ": "Emily Moore",
-            "EXT": "Unkown",
-            "Room Number": "MU 206S"
-            
-        },
-        {
-            "Faculty ": "Don O'Malley",
-            "EXT": 2284,
-            "Room Number": "MU 205C"
-            
-        },
-        {
-            "Faculty ": "Emeka Okeke",
-            "EXT": "Unkown",
-            "Room Number": "MU 206N"
-            
-        },
-        {
-            "Faculty ": "Ana Otero",
-            "EXT": "Unkown",
-            "Room Number": "MU 206R"
-            
-        },
-        {
-            "Faculty ": "Sarah Peacock",
-            "EXT": 7048,
-            "Room Number": "MU 206Q"
-            
-        },
-        {
-            "Faculty ": "MarySue Potts-Santone",
-            "EXT": 4031,
-            "Room Number": "MU 203D"
-            
-        },
-        {
-            "Faculty ": "Diviya Ray",
-            "EXT": "Unkown",
-            "Room Number": "MU 206W"
-            
-        },
-        {
-            "Faculty ": "Dessy Raytcheva",
-            "EXT": 7847,
-            "Room Number": "MU 206P"
-            
-        },
-        {
-            "Faculty ": "Aaron Roth",
-            "EXT": 2263,
-            "Room Number": "MU 203B"
-            
-        },
-        {
-            "Faculty ": "Pedro Saavedra",
-            "EXT": "Unkown",
-            "Room Number": "MU 206I"
-            
-        },
-        {
-            "Faculty ": "Matthias Schlichting",
-            "EXT": 5077,
-            "Room Number": "MU 206D"
-            
-        },
-        {
-            "Faculty ": "Michael Sitkovsky",
-            "EXT": 4157,
-            "Room Number": "MU 312"
-            
-        },
-        {
-            "Faculty ": "Julian Sosnik",
-            "EXT": 5601,
-            "Room Number": "MU 206M"
-            
-        },
-        {
-            "Faculty ": "Dagmar Sternad",
-            "EXT": 5093,
-            "Room Number": "RI 503"
-            
-        },
-        {
-            "Faculty ": "Meredith Sweeney",
-            "EXT": 3496,
-            "Room Number": "MU 122C"
-            
-        },
-        {
-            "Faculty ": "Nick Takacs",
-            "EXT": "Unkown",
-            "Room Number": "MU 206H"
-            
-        },
-        {
-            "Faculty ": "Sahar Tavakoli",
-            "EXT": "Unkown",
-            "Room Number": "MU 205B"
-            
-        },
-        {
-            "Faculty ": "Jordan Theriault ",
-            "EXT": "Unkown",
-            "Room Number": "Unkown"
-            
-        },
-        {
-            "Faculty ": "Jon Tilly",
-            "EXT": 5267,
-            "Room Number": "MU 206F"
-            
-        },
-        {
-            "Faculty ": "Steve Untersee",
-            "EXT": 7051,
-            "Room Number": "MU 213C"
-            
-        },
-        {
-            "Faculty ": "Lei Wang ",
-            "EXT": "Unkown",
-            "Room Number": "Unkown"
-            
-        },
-        {
-            "Faculty ": "Lianyong Wang",
-            "EXT": "Unkown",
-            "Room Number": "EXP 530D"
-            
-        },
-        {
-            "Faculty ": "Max Wolf",
-            "EXT": "Unkown",
-            "Room Number": "Unkown"
-            
-        },
-        {
-            "Faculty ": "Ayce Yesilaltay",
-            "EXT": "Unkown",
-            "Room Number": "MU 206X"
-            
-        },
-        {
-            "Faculty ": "Gunther Zupanc",
-            "EXT": 8592,
-            "Room Number": "MU 405"
-            
-        }
-    ],
-    "Labs": [
-        {
-            "Labs": "Apfeld",
-            "Room Number": "MU 409"
-        },
-        {
-            "Labs": "Chai",
-            "Room Number": "MU 301"
-        },
-        {
-            "Labs": "Copos",
-            "Room Number": "MU 206A"
-        },
-        {
-            "Labs": "Cram",
-            "Room Number": "MU 424"
-        },
-        {
-            "Labs": "Day",
-            "Room Number": "MU 220"
-        },
-        {
-            "Labs": "Epstein",
-            "Room Number": "MU 407"
-        },
-        {
-            "Labs": "Geisinger",
-            "Room Number": "MU 315"
-        },
-        {
-            "Labs": "Godoy-Carter",
-            "Room Number": "MU 402"
-        },
-        {
-            "Labs": "Ionescu",
-            "Room Number": "MU 401"
-        },
-        {
-            "Labs": "Khrapko",
-            "Room Number": "MU 214"
-        },
-        {
-            "Labs": "Lewis",
-            "Room Number": "MU 321"
-        },
-        {
-            "Labs": "Matthis",
-            "Room Number": "RI 417"
-        },
-        {
-            "Labs": "Monaghan",
-            "Room Number": "MU 404"
-        },
-        {
-            "Labs": "Okeke",
-            "Room Number": "MU 213"
-        },
-        {
-            "Labs": "Saavedra",
-            "Room Number": "MU 413"
-        },
-        {
-            "Labs": "Sitkovsky",
-            "Room Number": "MU 031"
-        },
-        {
-            "Labs": "Sive",
-            "Room Number": "MU 036"
-        },
-        {
-            "Labs": "Sternad",
-            "Room Number": "RI 503"
-        },
-        {
-            "Labs": "Takacs",
-            "Room Number": "MU 413"
-        },
-        {
-            "Labs": "Tilly",
-            "Room Number": "MU 213"
-        },
-        {
-            "Labs": "Woods",
-            "Room Number": "MU 213"
-        },
-        {
-            "Labs": "Zupanc",
-            "Room Number": "MU 407"
-        },
-        {
-            "Labs": "Moore",
-            "Room Number": "TBD "
-        },
-        {
-            "Labs": "Davidi",
-            "Room Number": "IPHI"
-        },
-        {
-            "Labs": "Wang ",
-            "Room Number": "IPHI"
-        }
-    ],
-    "Staff": [
-        {
-            "Department Staff": "Unkown",
-            "EXT": "Extension",
-            "Room Number": "Office Location"
-        },
-        {
-            "Department Staff": "Patrick Fodor",
-            "EXT": 4046,
-            "Room Number": "MU 206T"
-        },
-        {
-            "Department Staff": "Evan Barfuss",
-            "EXT": "Unkown",
-            "Room Number": "BK 703"
-        },
-        {
-            "Department Staff": "Kari Jensen",
-            "EXT": 2093,
-            "Room Number": "BK 604"
-        },
-        {
-            "Department Staff": "Morline Gordon-Grier",
-            "EXT": 2852,
-            "Room Number": "MU 203"
-        },
-        {
-            "Department Staff": "Patti Hampf",
-            "EXT": 2264,
-            "Room Number": "BK 704"
-        },
-        {
-            "Department Staff": "Petya Koeva-Dobreva",
-            "EXT": 2261,
-            "Room Number": "MU 206E"
-        },
-        {
-            "Department Staff": "Sarah Levine",
-            "EXT": 2260,
-            "Room Number": "MU 206E"
-        },
-        {
-            "Department Staff": "Collin Modelski",
-            "EXT": "Unkown",
-            "Room Number": "BK 603"
-        }
-    ]
+  "Lab Personnel": [
+    {
+      "Lab Personnel": "Abolarin Olusegun",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Akira Iinishi",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Andrei Musetescu",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Anuradha Seth",
+      "Lab": "Saavedra",
+      "Room Number": "MU 413"
+    },
+    {
+      "Lab Personnel": "Arina Ovchinnikova",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Lab Personnel": "Ashwin Lokapally",
+      "Lab": "Sive",
+      "Room Number": "MU 036"
+    },
+    {
+      "Lab Personnel": "Avery Lord",
+      "Lab": "Cram",
+      "Room Number": "MU 424"
+    },
+    {
+      "Lab Personnel": "Brandon Choo",
+      "Lab": "Sive",
+      "Room Number": "MU 036"
+    },
+    {
+      "Lab Personnel": "Bryson Andrew Hawkins",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Christopher Zinck",
+      "Lab": "Takacs",
+      "Room Number": "MU 413"
+    },
+    {
+      "Lab Personnel": "David Lehotzky",
+      "Lab": "Zupanc",
+      "Room Number": "MU 407"
+    },
+    {
+      "Lab Personnel": "Declan Houlihan",
+      "Lab": "Takacs",
+      "Room Number": "MU 413"
+    },
+    {
+      "Lab Personnel": "Drew Bostrom",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Lab Personnel": "Evan Barfuss",
+      "Lab": "Unkown",
+      "Room Number": "BK 703"
+    },
+    {
+      "Lab Personnel": "Helene Serre",
+      "Lab": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Lab Personnel": "Hui Wang",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Isabel Jones",
+      "Lab": "Lewis",
+      "Room Number": "MU 310A"
+    },
+    {
+      "Lab Personnel": "Jinna Bai",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Lab Personnel": "Julianna Blanco",
+      "Lab": "Saavedra",
+      "Room Number": "MU 413"
+    },
+    {
+      "Lab Personnel": "Kamrunnesa Tahmina",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Kannan Thangamani",
+      "Lab": "Okeke",
+      "Room Number": "MU 213"
+    },
+    {
+      "Lab Personnel": "Kari Jensen",
+      "Lab": "Unkown",
+      "Room Number": "BK 604"
+    },
+    {
+      "Lab Personnel": "Kiley Hartigan",
+      "Lab": "Matthis",
+      "Room Number": "RI 417"
+    },
+    {
+      "Lab Personnel": "Leon Liang",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Luke Yaeger",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Mohini Jaiswal",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Mohsen Sadeghi",
+      "Lab": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Lab Personnel": "Monique Theriault",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Muruganandan Shanmugam",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Lab Personnel": "Mustafi Raisa Amin",
+      "Lab": "Cram",
+      "Room Number": "MU 424"
+    },
+    {
+      "Lab Personnel": "Nadja Leimer",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Nelson Alara",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Lab Personnel": " Nicole Raustad",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Lab Personnel": "Nikita Gupta",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Natalie Disilets",
+      "Lab": "Takacs",
+      "Room Number": "MU 413"
+    },
+    {
+      "Lab Personnel": "Oleg Rouvinski Vasilieva",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Olusula Bodede",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Pankaj Patil",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Patricia Hampf",
+      "Lab": "Unkown",
+      "Room Number": "BK 704"
+    },
+    {
+      "Lab Personnel": "Phillip Queen",
+      "Lab": "Matthis",
+      "Room Number": "RI 417"
+    },
+    {
+      "Lab Personnel": "Rakshith Lokesh",
+      "Lab": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Lab Personnel": "Raleb Taher",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Sabrina Bond",
+      "Lab": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Lab Personnel": "Sage Kumar",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Lab Personnel": "Sangkeun Son",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Sanika Vaidya",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Serena Lee",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Stephen Reinhart",
+      "Lab": "Matthis",
+      "Room Number": "RI 417"
+    },
+    {
+      "Lab Personnel": "Silvia Buscaglione",
+      "Lab": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Lab Personnel": "Thomas Curtis",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Thomas Privalsky",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Tim Duerr",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Lab Personnel": "Tony D'Onofrio",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Trenton Wirth",
+      "Lab": "Matthis",
+      "Room Number": "RI 417"
+    },
+    {
+      "Lab Personnel": "Vladimir Tikhonov",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Yekaterina Piyedra Sobolevskaya",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Ying Zhang",
+      "Lab": "Lewis",
+      "Room Number": "MU 206A"
+    },
+    {
+      "Lab Personnel": "Yongchao Yin",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Lab Personnel": "Yu Zhai",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Lab Personnel": "Yumin Cai",
+      "Lab": "Lewis",
+      "Room Number": "MU 309"
+    }
+  ],
+  "Grad Students": [
+    {
+      "Grad Students": "Adrianna Vandeuren",
+      "Lab": "Day",
+      "Room Number": "MU 220"
+    },
+    {
+      "Grad Students": "Aleksei Krotov",
+      "Lab": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Grad Students": "Andrew Piasecki",
+      "Lab": "LAIR",
+      "Room Number": "MU 213"
+    },
+    {
+      "Grad Students": "Brian Nguyen",
+      "Lab": "Godoy-Carter",
+      "Room Number": "MU 402"
+    },
+    {
+      "Grad Students": "Daniel Shaw",
+      "Lab": "Apfeld",
+      "Room Number": "MU 409"
+    },
+    {
+      "Grad Students": "Fanke Gao",
+      "Lab": "Lewis",
+      "Room Number": "MU 421"
+    },
+    {
+      "Grad Students": "Jackson Griffiths",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Grad Students": "Kalley deGeorge",
+      "Lab": "Ionescu",
+      "Room Number": "Unkown"
+    },
+    {
+      "Grad Students": "Jinna Bai",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Grad Students": "Lindsay Julio",
+      "Lab": "Day",
+      "Room Number": "MU 220"
+    },
+    {
+      "Grad Students": "Mahnia Asadollahi",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Grad Students": "Maria Khalid",
+      "Lab": "Cram",
+      "Room Number": "RI 503"
+    },
+    {
+      "Grad Students": "Mark Soo",
+      "Lab": "Takacs",
+      "Room Number": "MU 315"
+    },
+    {
+      "Grad Students": "Melissa Franco",
+      "Lab": "Khrapko",
+      "Room Number": "MU 214"
+    },
+    {
+      "Grad Students": "Melissa Miller",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Grad Students": "Michael Gates",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Grad Students": "Nicole Cavanaugh",
+      "Lab": "Chai",
+      "Room Number": "MU 301"
+    },
+    {
+      "Grad Students": "Shannon Sykes-Macleod",
+      "Lab": "Day",
+      "Room Number": "MU 220"
+    },
+    {
+      "Grad Students": "Victor Stolzenbach",
+      "Lab": "Cram",
+      "Room Number": "MU 424"
+    },
+    {
+      "Grad Students": "Yinghao He",
+      "Lab": "Chai",
+      "Room Number": "MU 301"
+    },
+    {
+      "Grad Students": "Yiwei Kong",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Grad Students": "Yuyan Xu",
+      "Lab": "Apfeld",
+      "Room Number": "MU 409"
+    },
+    {
+      "Grad Students": "Hsin-Wen Liang",
+      "Lab": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Grad Students": "Casey Tsimbal",
+      "Lab": "Apfeld",
+      "Room Number": "MU 409"
+    },
+    {
+      "Grad Students": "Wathone Win",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Grad Students": "Samantha Finkbeiner",
+      "Lab": "Monaghan/Copos",
+      "Room Number": "MU 404"
+    },
+    {
+      "Grad Students": "Nicole Calder",
+      "Lab": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Grad Students": "Cooper Wilkinson",
+      "Lab": "Day",
+      "Room Number": "MU 220"
+    },
+    {
+      "Grad Students": "Brittany Noonan",
+      "Lab": "Sitkovsky/Hatfield",
+      "Room Number": "MU 031"
+    },
+    {
+      "Grad Students": "Grace Picarillo",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Grad Students": "Gillian Croteau",
+      "Lab": "Takacs",
+      "Room Number": "MU 413"
+    },
+    {
+      "Grad Students": "Kailey deGeorge",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Grad Students": "Vimisha Dharamdasani",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Grad Students": "Lauren Frost",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Grad Students": "Egun Im",
+      "Lab": "Copos/Monagham",
+      "Room Number": "MU 404"
+    },
+    {
+      "Grad Students": "Christopher Kim",
+      "Lab": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Grad Students": "Laura Losada Miguns",
+      "Lab": "Sitkovsky/Hatfield",
+      "Room Number": "MU 031"
+    },
+    {
+      "Grad Students": "Andrew Miller-Klugman",
+      "Lab": "Day",
+      "Room Number": "MU 220"
+    },
+    {
+      "Grad Students": "Daniil Mirzoyan",
+      "Lab": "Khrapko",
+      "Room Number": "MU 214"
+    },
+    {
+      "Grad Students": "Daniel Norment",
+      "Lab": "Lewis",
+      "Room Number": "MU 421"
+    },
+    {
+      "Grad Students": "Arina Ovchinnikova",
+      "Lab": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Grad Students": "Helder Prece",
+      "Lab": "Okeke",
+      "Room Number": "Unkown"
+    },
+    {
+      "Grad Students": "Haley Sharp",
+      "Lab": "Woods",
+      "Room Number": "MU 213"
+    },
+    {
+      "Grad Students": "Adam Slamin",
+      "Lab": "Takacs",
+      "Room Number": "MU 413"
+    },
+    {
+      "Grad Students": "Heather Watkins",
+      "Lab": "Sitkovsky/Hatfield",
+      "Room Number": "MU 031"
+    },
+    {
+      "Grad Students": "Michael Razavi",
+      "Lab": "Carrier",
+      "Room Number": "Unkown"
+    }
+  ],
+  "Faculty": [
+    {
+      "Faculty": "Javier Apfeld",
+      "EXT": 4495,
+      "Room Number": "MU 211C"
+    },
+    {
+      "Faculty": "Maddie Balman",
+      "EXT": "Unkown",
+      "Room Number": "MU 206B"
+    },
+    {
+      "Faculty": "Jamie Bunce",
+      "EXT": 6838,
+      "Room Number": "NI 382"
+    },
+    {
+      "Faculty": "Win Chai",
+      "EXT": 3973,
+      "Room Number": "MU 301A"
+    },
+    {
+      "Faculty": "Calina Copos",
+      "EXT": "Unkown",
+      "Room Number": "MU 206K"
+    },
+    {
+      "Faculty": "Erin Cram",
+      "EXT": 7533,
+      "Room Number": "MU 425A"
+    },
+    {
+      "Faculty": "Tovah Day",
+      "EXT": 3492,
+      "Room Number": "MU 211D"
+    },
+    {
+      "Faculty": "Lital Davidi ",
+      "EXT": "Unkown",
+      "Room Number": "EXP 530C"
+    },
+    {
+      "Faculty": "Slava Epstein",
+      "EXT": 4048,
+      "Room Number": "MU 305"
+    },
+    {
+      "Faculty": "Joanna Farkas",
+      "EXT": 3119,
+      "Room Number": "MU 122A"
+    },
+    {
+      "Faculty": "Kirsten Fertuck",
+      "EXT": 2084,
+      "Room Number": "MU 203F"
+    },
+    {
+      "Faculty": "Eddie Geisinger",
+      "EXT": 5266,
+      "Room Number": "MU206L"
+    },
+    {
+      "Faculty": "Veronica Godoy-Carter",
+      "EXT": 4042,
+      "Room Number": "MU 205E"
+    },
+    {
+      "Faculty": "Mark Grabiner",
+      "EXT": "Unkown",
+      "Room Number": "MU 206Y"
+    },
+    {
+      "Faculty": "Jamie Henzy",
+      "EXT": 4032,
+      "Room Number": "MU 205F"
+    },
+    {
+      "Faculty": "Erica Homan",
+      "EXT": 2674,
+      "Room Number": "MU 122B"
+    },
+    {
+      "Faculty": "Jenn Ingemi",
+      "EXT": 6510,
+      "Room Number": "164B NI"
+    },
+    {
+      "Faculty": "Andreia Ionescu",
+      "EXT": 6229,
+      "Room Number": "MU 301D"
+    },
+    {
+      "Faculty": "Jonathan Kahn",
+      "EXT": 4930,
+      "Room Number": "CG 29"
+    },
+    {
+      "Faculty": "Konstantin Khrapko",
+      "EXT": 6283,
+      "Room Number": "MU 306E"
+    },
+    {
+      "Faculty": "Kim Lewis",
+      "EXT": 8238,
+      "Room Number": "MU 306C"
+    },
+    {
+      "Faculty": "Jon Matthis",
+      "EXT": 7350,
+      "Room Number": "RI 417A"
+    },
+    {
+      "Faculty": "Missy McElligott",
+      "EXT": 7098,
+      "Room Number": "MU 203C"
+    },
+    {
+      "Faculty": "Lindsay Mehrmanesh",
+      "EXT": 2987,
+      "Room Number": "MU 206C"
+    },
+    {
+      "Faculty": "James Monaghan",
+      "EXT": 6539,
+      "Room Number": "ISEC 308/206S"
+    },
+    {
+      "Faculty": "Emily Moore",
+      "EXT": "Unkown",
+      "Room Number": "MU 206S"
+    },
+    {
+      "Faculty": "Don O'Malley",
+      "EXT": 2284,
+      "Room Number": "MU 205C"
+    },
+    {
+      "Faculty": "Emeka Okeke",
+      "EXT": "Unkown",
+      "Room Number": "MU 206N"
+    },
+    {
+      "Faculty": "Ana Otero",
+      "EXT": "Unkown",
+      "Room Number": "MU 206R"
+    },
+    {
+      "Faculty": "Sarah Peacock",
+      "EXT": 7048,
+      "Room Number": "MU 206Q"
+    },
+    {
+      "Faculty": "MarySue Potts-Santone",
+      "EXT": 4031,
+      "Room Number": "MU 203D"
+    },
+    {
+      "Faculty": "Diviya Ray",
+      "EXT": "Unkown",
+      "Room Number": "MU 206W"
+    },
+    {
+      "Faculty": "Dessy Raytcheva",
+      "EXT": 7847,
+      "Room Number": "MU 206P"
+    },
+    {
+      "Faculty": "Aaron Roth",
+      "EXT": 2263,
+      "Room Number": "MU 203B"
+    },
+    {
+      "Faculty": "Pedro Saavedra",
+      "EXT": "Unkown",
+      "Room Number": "MU 206I"
+    },
+    {
+      "Faculty": "Matthias Schlichting",
+      "EXT": 5077,
+      "Room Number": "MU 206D"
+    },
+    {
+      "Faculty": "Michael Sitkovsky",
+      "EXT": 4157,
+      "Room Number": "MU 312"
+    },
+    {
+      "Faculty": "Julian Sosnik",
+      "EXT": 5601,
+      "Room Number": "MU 206M"
+    },
+    {
+      "Faculty": "Dagmar Sternad",
+      "EXT": 5093,
+      "Room Number": "RI 503"
+    },
+    {
+      "Faculty": "Meredith Sweeney",
+      "EXT": 3496,
+      "Room Number": "MU 122C"
+    },
+    {
+      "Faculty": "Nick Takacs",
+      "EXT": "Unkown",
+      "Room Number": "MU 206H"
+    },
+    {
+      "Faculty": "Sahar Tavakoli",
+      "EXT": "Unkown",
+      "Room Number": "MU 205B"
+    },
+    {
+      "Faculty": "Jordan Theriault ",
+      "EXT": "Unkown",
+      "Room Number": "Unkown"
+    },
+    {
+      "Faculty": "Jon Tilly",
+      "EXT": 5267,
+      "Room Number": "MU 206F"
+    },
+    {
+      "Faculty": "Steve Untersee",
+      "EXT": 7051,
+      "Room Number": "MU 213C"
+    },
+    {
+      "Faculty": "Lei Wang ",
+      "EXT": "Unkown",
+      "Room Number": "Unkown"
+    },
+    {
+      "Faculty": "Lianyong Wang",
+      "EXT": "Unkown",
+      "Room Number": "EXP 530D"
+    },
+    {
+      "Faculty": "Max Wolf",
+      "EXT": "Unkown",
+      "Room Number": "Unkown"
+    },
+    {
+      "Faculty": "Ayce Yesilaltay",
+      "EXT": "Unkown",
+      "Room Number": "MU 206X"
+    },
+    {
+      "Faculty": "Gunther Zupanc",
+      "EXT": 8592,
+      "Room Number": "MU 405"
+    }
+  ],
+  "Labs": [
+    {
+      "Labs": "Apfeld",
+      "Room Number": "MU 409"
+    },
+    {
+      "Labs": "Chai",
+      "Room Number": "MU 301"
+    },
+    {
+      "Labs": "Copos",
+      "Room Number": "MU 206A"
+    },
+    {
+      "Labs": "Cram",
+      "Room Number": "MU 424"
+    },
+    {
+      "Labs": "Day",
+      "Room Number": "MU 220"
+    },
+    {
+      "Labs": "Epstein",
+      "Room Number": "MU 407"
+    },
+    {
+      "Labs": "Geisinger",
+      "Room Number": "MU 315"
+    },
+    {
+      "Labs": "Godoy-Carter",
+      "Room Number": "MU 402"
+    },
+    {
+      "Labs": "Ionescu",
+      "Room Number": "MU 401"
+    },
+    {
+      "Labs": "Khrapko",
+      "Room Number": "MU 214"
+    },
+    {
+      "Labs": "Lewis",
+      "Room Number": "MU 321"
+    },
+    {
+      "Labs": "Matthis",
+      "Room Number": "RI 417"
+    },
+    {
+      "Labs": "Monaghan",
+      "Room Number": "MU 404"
+    },
+    {
+      "Labs": "Okeke",
+      "Room Number": "MU 213"
+    },
+    {
+      "Labs": "Saavedra",
+      "Room Number": "MU 413"
+    },
+    {
+      "Labs": "Sitkovsky",
+      "Room Number": "MU 031"
+    },
+    {
+      "Labs": "Sive",
+      "Room Number": "MU 036"
+    },
+    {
+      "Labs": "Sternad",
+      "Room Number": "RI 503"
+    },
+    {
+      "Labs": "Takacs",
+      "Room Number": "MU 413"
+    },
+    {
+      "Labs": "Tilly",
+      "Room Number": "MU 213"
+    },
+    {
+      "Labs": "Woods",
+      "Room Number": "MU 213"
+    },
+    {
+      "Labs": "Zupanc",
+      "Room Number": "MU 407"
+    },
+    {
+      "Labs": "Moore",
+      "Room Number": "TBD "
+    },
+    {
+      "Labs": "Davidi",
+      "Room Number": "IPHI"
+    },
+    {
+      "Labs": "Wang ",
+      "Room Number": "IPHI"
+    }
+  ],
+  "Staff": [
+    {
+      "Department Staff": "Unkown",
+      "EXT": "Extension",
+      "Room Number": "Office Location"
+    },
+    {
+      "Department Staff": "Patrick Fodor",
+      "EXT": 4046,
+      "Room Number": "MU 206T"
+    },
+    {
+      "Department Staff": "Evan Barfuss",
+      "EXT": "Unkown",
+      "Room Number": "BK 703"
+    },
+    {
+      "Department Staff": "Kari Jensen",
+      "EXT": 2093,
+      "Room Number": "BK 604"
+    },
+    {
+      "Department Staff": "Morline Gordon-Grier",
+      "EXT": 2852,
+      "Room Number": "MU 203"
+    },
+    {
+      "Department Staff": "Patti Hampf",
+      "EXT": 2264,
+      "Room Number": "BK 704"
+    },
+    {
+      "Department Staff": "Petya Koeva-Dobreva",
+      "EXT": 2261,
+      "Room Number": "MU 206E"
+    },
+    {
+      "Department Staff": "Sarah Levine",
+      "EXT": 2260,
+      "Room Number": "MU 206E"
+    },
+    {
+      "Department Staff": "Collin Modelski",
+      "EXT": "Unkown",
+      "Room Number": "BK 603"
+    }
+  ]
 }

@@ -1,3 +1,5 @@
 {
-  "welcomeMessage": "Welcome to the Biology Department Office"
+  "welcomeMessage": "Welcome to the Biology Department!",
+  "helpRecipients": [],
+  "imagePath": "/uploads/images.png"
 }
